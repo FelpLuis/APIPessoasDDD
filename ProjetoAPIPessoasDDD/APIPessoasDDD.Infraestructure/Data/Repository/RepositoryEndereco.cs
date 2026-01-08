@@ -1,0 +1,16 @@
+﻿using APIPessoasDDD.Data;
+using APIPessoasDDD.Domain.Core.Interfaces.Servicos;
+using APIPessoasDDD.Domain.Entitys;
+
+namespace APIPessoasDDD.Infraestructure.Data.Repository
+{
+    public class RepositoryEndereco : RepositoryID<Endereco>, IServicoEndereco
+    {
+        private readonly PessoasDbContext pessoasDbContext;
+
+        public RepositoryEndereco(PessoasDbContext pessoasDbContext) : base(pessoasDbContext)
+        {
+            this.pessoasDbContext = pessoasDbContext;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.Core.deps.json
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.Core.runtimeconfig.json
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.Core.dll
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.Core.pdb
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.dll
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\bin\Release\net8.0\APIPessoasDDD.Domain.pdb
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.AssemblyInfo.cs
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPesso.F80ED241.Up2Date
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.dll
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\refint\APIPessoasDDD.Domain.Core.dll
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.pdb
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\APIPessoasDDD.Domain.Core.genruntimeconfig.cache
+C:\Users\Timeware066\source\repos\APIPessoasDDD.Domain.Core\obj\Release\net8.0\ref\APIPessoasDDD.Domain.Core.dll
