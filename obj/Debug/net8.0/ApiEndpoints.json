@@ -1,0 +1,571 @@
+[
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ClienteController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/cliente/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ClienteController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/cliente/CadastrarCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferCadCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ClienteController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/cliente/EditarCliente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferCliente",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ClienteController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/cliente/ExcluirCliente",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ClienteController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/cliente/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ContatoController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/contato/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ContatoController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/contato/CadastrarContato",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ContatoController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/contato/EditarContato",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ContatoController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/contato/ExcluirContato",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.ContatoController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/contato/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.EnderecoController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/Endereco/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.EnderecoController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/Endereco/CadastrarEndereco",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.EnderecoController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/Endereco/EditarEndereco",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.EnderecoController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/Endereco/ExcluirEndereco",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.EnderecoController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/Endereco/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoClienteController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/Tipocliente/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoClienteController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/Tipocliente/CadastrarTipoCliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoClienteController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/Tipocliente/EditarTipoCliente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoClienteController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/Tipocliente/ExcluirTipoCliente",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoCliente",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoCliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoClienteController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/Tipocliente/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoContatoController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/Tipocontato/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoContatoController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/Tipocontato/CadastrarTipoContato",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoContatoController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/Tipocontato/EditarTipoContato",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoContatoController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/Tipocontato/ExcluirTipoContato",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoContato",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoContato",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoContatoController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/Tipocontato/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoEnderecoController",
+    "Method": "Get",
+    "RelativePath": "APIPessoasDDD/TipoEndereco/BuscarId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoEnderecoController",
+    "Method": "Post",
+    "RelativePath": "APIPessoasDDD/TipoEndereco/CadastrarTipoEndereco",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoEnderecoController",
+    "Method": "Put",
+    "RelativePath": "APIPessoasDDD/TipoEndereco/EditarTipoEndereco",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoEnderecoController",
+    "Method": "Delete",
+    "RelativePath": "APIPessoasDDD/TipoEndereco/ExcluirTipoEndereco",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferTipoEndereco",
+        "Type": "APIPessoasDDD.Application.Transfer.TransferTipoEndereco",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIPessoasDDD.Services.Controllers.TipoEnderecoController",
+    "Method": "GetAll",
+    "RelativePath": "APIPessoasDDD/TipoEndereco/MostrarTodos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

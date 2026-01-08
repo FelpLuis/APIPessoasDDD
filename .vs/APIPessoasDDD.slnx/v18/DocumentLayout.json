@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\Migrations\\20260108131413_alterarbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C388CA05-B575-1F0E-F031-370ED329A0A0}|..\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj|c:\\users\\timeware066\\source\\repos\\apipessoasddd\\mapper\\mapperendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3B08C3-0D90-A092-4F76-BD2C66161D78}|..\\APIPessoasDDD.Infraestructure\\APIPessoasDDD.Infraestructure.csproj|c:\\users\\timeware066\\source\\repos\\apipessoasddd.infraestructure\\data\\repository\\repositoryendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9996EA-3448-CBDF-0E77-10633F03F119}|..\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj|c:\\users\\timeware066\\source\\repos\\apipessoasddd.domain\\entitys\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C388CA05-B575-1F0E-F031-370ED329A0A0}|..\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj|c:\\users\\timeware066\\source\\repos\\apipessoasddd\\applicationservicoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D606E768-D6CB-B19B-7930-00270CC44346}|APIPessoasDDD.Services.csproj|c:\\users\\timeware066\\source\\repos\\apipessoas\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D606E768-D6CB-B19B-7930-00270CC44346}|APIPessoasDDD.Services.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260108131413_alterarbanco.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\Migrations\\20260108131413_alterarbanco.cs",
+              "RelativeDocumentMoniker": "..\\APIPessoasDDD.Infraestructure\\Migrations\\20260108131413_alterarbanco.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\Migrations\\20260108131413_alterarbanco.cs",
+              "RelativeToolTip": "..\\APIPessoasDDD.Infraestructure\\Migrations\\20260108131413_alterarbanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:14:13.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapperEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\Mapper\\MapperEndereco.cs",
+              "RelativeDocumentMoniker": "..\\ApiPessoasDDD\\Mapper\\MapperEndereco.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\Mapper\\MapperEndereco.cs",
+              "RelativeToolTip": "..\\ApiPessoasDDD\\Mapper\\MapperEndereco.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:13:58.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\Data\\Repository\\RepositoryEndereco.cs",
+              "RelativeDocumentMoniker": "..\\APIPessoasDDD.Infraestructure\\Data\\Repository\\RepositoryEndereco.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\Data\\Repository\\RepositoryEndereco.cs",
+              "RelativeToolTip": "..\\APIPessoasDDD.Infraestructure\\Data\\Repository\\RepositoryEndereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:12:59.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\Entitys\\Endereco.cs",
+              "RelativeDocumentMoniker": "..\\APIPessoasDDD.Domain\\Entitys\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\Entitys\\Endereco.cs",
+              "RelativeToolTip": "..\\APIPessoasDDD.Domain\\Entitys\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:12:24.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServicoEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\ApplicationServicoEndereco.cs",
+              "RelativeDocumentMoniker": "..\\ApiPessoasDDD\\ApplicationServicoEndereco.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\ApplicationServicoEndereco.cs",
+              "RelativeToolTip": "..\\ApiPessoasDDD\\ApplicationServicoEndereco.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:07:42.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:04:34.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
