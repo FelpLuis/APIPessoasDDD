@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPessoasDDD.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c4a3c7d9f30aaaca9701c9440fae2403b245506")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPessoasDDD.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPessoasDDD.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
