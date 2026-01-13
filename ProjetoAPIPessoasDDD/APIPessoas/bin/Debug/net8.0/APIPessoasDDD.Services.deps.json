@@ -11,7 +11,6 @@
           "APIPessoasDDD.Application": "1.0.0",
           "APIPessoasDDD.Domain": "1.0.0",
           "APIPessoasDDD.Domain.Core": "1.0.0",
-          "APIPessoasDDD.Domain.Services": "1.0.0",
           "APIPessoasDDD.Infraestructure": "1.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "Docker.Registry.DotNet": "2.0.0",
@@ -932,26 +931,11 @@
           }
         }
       },
-      "APIPessoasDDD.Domain.Services/1.0.0": {
-        "dependencies": {
-          "APIPessoasDDD.Domain.Core": "1.0.0",
-          "Docker.Registry.DotNet": "2.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.18",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
-        },
-        "runtime": {
-          "APIPessoasDDD.Domain.Services.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "APIPessoasDDD.Infraestructure/1.0.0": {
         "dependencies": {
           "APIPessoasDDD.Application": "1.0.0",
           "APIPessoasDDD.Domain": "1.0.0",
           "APIPessoasDDD.Domain.Core": "1.0.0",
-          "APIPessoasDDD.Domain.Services": "1.0.0",
           "Autofac": "9.0.0",
           "Autofac.Extensions.DependencyInjection": "10.0.0",
           "Docker.Registry.DotNet": "2.0.0",
@@ -1397,11 +1381,6 @@
       "sha512": ""
     },
     "APIPessoasDDD.Domain.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "APIPessoasDDD.Domain.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -7,7 +7,6 @@
   </Folder>
   <Folder Name="/3 - Domain/">
     <Project Path="../APIPessoasDDD.Domain.Core/APIPessoasDDD.Domain.Core.csproj" />
-    <Project Path="../APIPessoasDDD.Domain.Services/APIPessoasDDD.Domain.Services.csproj" />
     <Project Path="../APIPessoasDDD.Domain/APIPessoasDDD.Domain.csproj" />
   </Folder>
   <Folder Name="/4 - Infrastructure/">

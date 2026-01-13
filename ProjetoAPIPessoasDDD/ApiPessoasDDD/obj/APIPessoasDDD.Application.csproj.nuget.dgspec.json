@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {}
+    "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
+    "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj",
         "projectName": "APIPessoasDDD.Domain.Core",
-        "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Timeware066\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
+              "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
+    "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj",
         "projectName": "APIPessoasDDD.Domain",
-        "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj",
+        "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj",
         "packagesPath": "C:\\Users\\Timeware066\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {
+    "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
         "projectName": "APIPessoasDDD.Application",
-        "projectPath": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
+        "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
         "packagesPath": "C:\\Users\\Timeware066\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\obj\\",
+        "outputPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -221,11 +221,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj"
+              "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj"
               },
-              "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
+              "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
               }
             }
           }

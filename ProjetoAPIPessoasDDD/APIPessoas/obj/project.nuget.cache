@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ps7LgnMaeg0=",
+  "dgSpecHash": "sOUqn55wzhU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\APIPessoasDDD.Services.csproj",
+  "projectFilePath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoas\\APIPessoasDDD.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timeware066\\.nuget\\packages\\autofac\\9.0.0\\autofac.9.0.0.nupkg.sha512",
     "C:\\Users\\Timeware066\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",

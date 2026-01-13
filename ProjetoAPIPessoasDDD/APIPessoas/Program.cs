@@ -3,7 +3,6 @@ using APIPessoasDDD.Application.Interfaces;
 using APIPessoasDDD.Application.Interfaces.Mapper;
 using APIPessoasDDD.Data;
 using APIPessoasDDD.Domain.Core.Interfaces.Servicos;
-using APIPessoasDDD.Domain.Services;
 using APIPessoasDDD.Infraestructure.Data.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;

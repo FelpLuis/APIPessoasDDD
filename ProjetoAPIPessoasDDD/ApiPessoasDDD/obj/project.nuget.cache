@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vynRm7/TXPY=",
+  "dgSpecHash": "jISpeqwoE/U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
+  "projectFilePath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timeware066\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Timeware066\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

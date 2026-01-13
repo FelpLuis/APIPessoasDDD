@@ -1540,22 +1540,6 @@
           "bin/placeholder/APIPessoasDDD.Domain.Core.dll": {}
         }
       },
-      "APIPessoasDDD.Domain.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "APIPessoasDDD.Domain.Core": "1.0.0",
-          "Docker.Registry.DotNet": "2.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.18",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18"
-        },
-        "compile": {
-          "bin/placeholder/APIPessoasDDD.Domain.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/APIPessoasDDD.Domain.Services.dll": {}
-        }
-      },
       "APIPessoasDDD.Infraestructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1563,7 +1547,6 @@
           "APIPessoasDDD.Application": "1.0.0",
           "APIPessoasDDD.Domain": "1.0.0",
           "APIPessoasDDD.Domain.Core": "1.0.0",
-          "APIPessoasDDD.Domain.Services": "1.0.0",
           "Autofac": "9.0.0",
           "Autofac.Extensions.DependencyInjection": "10.0.0",
           "Docker.Registry.DotNet": "2.0.0",
@@ -4185,11 +4168,6 @@
       "path": "../APIPessoasDDD.Domain.Core/APIPessoasDDD.Domain.Core.csproj",
       "msbuildProject": "../APIPessoasDDD.Domain.Core/APIPessoasDDD.Domain.Core.csproj"
     },
-    "APIPessoasDDD.Domain.Services/1.0.0": {
-      "type": "project",
-      "path": "../APIPessoasDDD.Domain.Services/APIPessoasDDD.Domain.Services.csproj",
-      "msbuildProject": "../APIPessoasDDD.Domain.Services/APIPessoasDDD.Domain.Services.csproj"
-    },
     "APIPessoasDDD.Infraestructure/1.0.0": {
       "type": "project",
       "path": "../APIPessoasDDD.Infraestructure/APIPessoasDDD.Infraestructure.csproj",
@@ -4201,7 +4179,6 @@
       "APIPessoasDDD.Application >= 1.0.0",
       "APIPessoasDDD.Domain >= 1.0.0",
       "APIPessoasDDD.Domain.Core >= 1.0.0",
-      "APIPessoasDDD.Domain.Services >= 1.0.0",
       "APIPessoasDDD.Infraestructure >= 1.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Docker.Registry.DotNet >= 2.0.0",
@@ -4220,11 +4197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\APIPessoasDDD.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoas\\APIPessoasDDD.Services.csproj",
       "projectName": "APIPessoasDDD.Services",
-      "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\APIPessoasDDD.Services.csproj",
+      "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoas\\APIPessoasDDD.Services.csproj",
       "packagesPath": "C:\\Users\\Timeware066\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoas\\obj\\",
+      "outputPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4246,20 +4223,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj"
+            "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain.Core\\APIPessoasDDD.Domain.Core.csproj"
             },
-            "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Services\\APIPessoasDDD.Domain.Services.csproj": {
-              "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain.Services\\APIPessoasDDD.Domain.Services.csproj"
+            "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
             },
-            "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Domain\\APIPessoasDDD.Domain.csproj"
+            "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Infraestructure\\APIPessoasDDD.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\APIPessoasDDD.Infraestructure\\APIPessoasDDD.Infraestructure.csproj"
             },
-            "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\APIPessoasDDD.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Timeware066\\source\\repos\\APIPessoasDDD.Infraestructure\\APIPessoasDDD.Infraestructure.csproj"
-            },
-            "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {
-              "projectPath": "C:\\Users\\Timeware066\\source\\repos\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj"
+            "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj": {
+              "projectPath": "C:\\Users\\Timeware066\\Documents\\GitHub\\APIPessoasDDD\\ProjetoAPIPessoasDDD\\ApiPessoasDDD\\APIPessoasDDD.Application.csproj"
             }
           }
         }

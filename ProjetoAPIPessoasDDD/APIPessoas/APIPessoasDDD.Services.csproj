@@ -26,7 +26,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APIPessoasDDD.Domain.Services\APIPessoasDDD.Domain.Services.csproj" />
     <ProjectReference Include="..\APIPessoasDDD.Infraestructure\APIPessoasDDD.Infraestructure.csproj" />
 	<ProjectReference Include="..\APIPessoasDDD.Domain.Core\APIPessoasDDD.Domain.Core.csproj" />
 	<ProjectReference Include="..\APIPessoasDDD.Domain\APIPessoasDDD.Domain.csproj" />  

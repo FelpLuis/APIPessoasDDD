@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPessoasDDD.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74bc70be5e1f98cc639b976abcc2f15d4a3f1924")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPessoasDDD.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPessoasDDD.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
